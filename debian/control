@@ -1,11 +1,11 @@
-Source: r-cran-biocgenerics
+Source: r-bioc-biocgenerics
 Section: gnu-r
 Priority: optional
 Maintainer: The Genome Institute <gmt@genome.wustl.edu>
 Build-Depends: r-base-dev, r-base-core, debhelper (>> 4.1.0)
 Homepage: http://www.bioconductor.org/packages/2.11/bioc/html/BiocGenerics.html
 
-Package: r-cran-biocgenerics
+Package: r-bioc-biocgenerics
 Architecture: all
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 Description: S4 generic functions needed by many other Bioconductor packages.
